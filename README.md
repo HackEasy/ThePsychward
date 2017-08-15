@@ -1,1 +1,6 @@
 # TheHospital
+# Coded By The M4d Sc13nT15t & The M4d Ch3m15t...
+# We are NOT responsible for what you use our code for..
+# With Great Power Comes Great Responsiblity..
+# We Hack For The Guy That Is Hacking Next To Us..
+# Those Left With Nothing Still Need To Be Paid...
