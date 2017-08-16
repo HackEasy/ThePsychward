@@ -9,7 +9,7 @@ With Great Power Comes Great Responsoblity
 >>>>>> Install Instructions <<<<
 
 On Desktop: Create Folder Named "Framework"
-In "Framework": Create Folder "Modules" and put install.sh
+In "Framework" Folder : Create Folder "Modules" and put install.sh and "Psychward.py"
 In Framework, inside modules place the remaining files which are:
 	Admin.rb  Headers.rb  
 	Incy_Wincy_Spider.rb   	Nuke.rb  
